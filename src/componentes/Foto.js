@@ -38,7 +38,7 @@ class FotoInfo extends Component {
                   })
                 }
                  
-                 curtiram
+                 curtiran
              
               </div>
 
